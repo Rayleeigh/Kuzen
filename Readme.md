@@ -3,6 +3,7 @@
 
 
 ## Kuzen - WSL
+Kuzen is intended to provide a lightweight web-interface to manage WSL - interacting with WSL to provde the administrator/user with a intiutive interface to manage their Subsystems
 - WSL
 
 ## Kuzen - Docker
