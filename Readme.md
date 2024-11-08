@@ -8,5 +8,6 @@ Kuzen is intended to provide a lightweight web-interface to manage WSL - interac
 [Kuzen WSL - Backlog](https://github.com/users/Rayleeigh/projects/7/views/1?pane=issue&itemId=86335910)
 
 ## Kuzen - Docker
-
-## Kuzen - 
+Soon to come
+## Kuzen - Hypervisor
+Soon to come
